@@ -1,0 +1,3 @@
+# This is my Text file
+ 
+ Lets have fun with git.
